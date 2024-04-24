@@ -1,2 +1,2 @@
-# CS_Notes
+# CS-Notes
 学习笔记
